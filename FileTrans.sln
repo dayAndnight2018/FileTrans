@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTrans", "FileTrans\FileTrans.csproj", "{B898AB07-9EB1-4D97-AC60-DC5496F6CD54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B898AB07-9EB1-4D97-AC60-DC5496F6CD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B898AB07-9EB1-4D97-AC60-DC5496F6CD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B898AB07-9EB1-4D97-AC60-DC5496F6CD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B898AB07-9EB1-4D97-AC60-DC5496F6CD54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C867DAF7-7C23-46DB-A787-F50A75BF2A8C}
+	EndGlobalSection
+EndGlobal

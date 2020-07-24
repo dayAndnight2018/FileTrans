@@ -1,0 +1,13 @@
+E:\projects\FileTrans\FileTrans\obj\Debug\FileTrans.csprojAssemblyReference.cache
+E:\projects\FileTrans\FileTrans\obj\Debug\FileTrans.Form1.resources
+E:\projects\FileTrans\FileTrans\obj\Debug\FileTrans.Properties.Resources.resources
+E:\projects\FileTrans\FileTrans\obj\Debug\FileTrans.csproj.GenerateResource.cache
+E:\projects\FileTrans\FileTrans\obj\Debug\FileTrans.csproj.CoreCompileInputs.cache
+E:\projects\FileTrans\FileTrans\bin\Debug\FileTrans.exe.config
+E:\projects\FileTrans\FileTrans\bin\Debug\FileTrans.exe
+E:\projects\FileTrans\FileTrans\bin\Debug\FileTrans.pdb
+E:\projects\FileTrans\FileTrans\bin\Debug\Fleck.dll
+E:\projects\FileTrans\FileTrans\obj\Debug\FileTrans.csproj.CopyComplete
+E:\projects\FileTrans\FileTrans\obj\Debug\FileTrans.exe
+E:\projects\FileTrans\FileTrans\obj\Debug\FileTrans.pdb
+E:\projects\FileTrans\FileTrans\obj\Debug\FileTrans.ImgPreview.resources
